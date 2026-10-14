@@ -1,5 +1,6 @@
 ちゃそやわらかい(neso)のAtCoder用テンプレ
 作成者:私とGemini
+たくさん更新すると思います
 ```python
 from collections import Counter
 from collections import defaultdict
